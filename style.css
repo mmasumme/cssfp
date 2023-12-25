@@ -1,0 +1,192 @@
+/* Google Font  */
+
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,200;1,300;1,400;1,500;1,600;1,700&display=swap");
+* {
+  padding: 3px;
+  margin: 2px;
+  font-family: Poppins;
+  color: black;
+  box-sizing: border-box;
+}
+
+ul {
+  list-style: none;
+  display: flex;
+  text-decoration: none;
+  font-family: poppins;
+  font-size: 15px;
+  font-weight: 500;
+}
+
+.nav {
+  display: flex;
+}
+
+a {
+  text-decoration: none;
+}
+
+.logo-img {
+  width: 223px;
+  height: 93.768px;
+  flex-shrink: 0;
+  position: relative;
+  left: 27px;
+  top: -14px;
+}
+.nav_list {
+  position: relative;
+  top: 32px;
+  left: 167px;
+}
+.nav_list_2 {
+  position: relative;
+  right: -300px;
+  top: 32px;
+}
+.Log_btn {
+  color: #fff;
+  font-family: Poppins;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.Log_btn {
+  background: #54b8ff;
+  border-radius: 3px;
+}
+/* hero section  */
+.hero_text {
+  display: inline-block;
+  position: relative;
+  left: 84px;
+}
+.hero_ht {
+  font-family: Poppins;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 30px;
+  letter-spacing: 0.235em;
+  text-align: left;
+  color: #2f2b71;
+}
+
+.hero_h {
+  font-family: Poppins;
+  font-size: 70px;
+  font-weight: 700;
+  line-height: 82px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #5f596e;
+}
+
+.hero_p {
+  font-family: Poppins;
+  font-size: 17px;
+  font-weight: 500;
+  line-height: 31px;
+  letter-spacing: 0.05em;
+  text-align: left;
+}
+
+.hero_btn {
+  background-color: #54b8ff;
+  color: white;
+  padding: 13px;
+  padding-right: 28px;
+  border: none;
+  border-radius: 3px;
+  margin-top: 42px;
+}
+.fa-arrow-right {
+  position: relative;
+  left: 12px;
+}
+
+.hero_image {
+  position: relative;
+  width: 1206px;
+  height: 716.33px;
+  top: -279px;
+  left: 465px;
+}
+
+.bagshape {
+  position: relative;
+  top: -501px;
+  left: 93px;
+}
+.oher1 {
+  position: relative;
+  top: -645px;
+  left: 82px;
+}
+.oher6 {
+  position: relative;
+  top: -751px;
+  left: 100px;
+}
+.object {
+  position: relative;
+  top: -680px;
+  left: 184px;
+}
+.other20 {
+  position: relative;
+  top: -521px;
+  left: 160px;
+}
+.shape01 {
+  position: relative;
+}
+.hero_text_i7 {
+  position: relative;
+  top: -487px;
+  right: 280px;
+}
+.hero_text_i8 {
+  position: relative;
+  top: -487px;
+  right: 558px;
+}
+.hero_text_i6 {
+  position: relative;
+  top: -567px;
+  right: 280px;
+}
+.hero_text_i5 {
+  position: relative;
+  top: -567px;
+  right: 56px;
+}
+.hero_text_i4 {
+  position: relative;
+  top: -647px;
+  right: -84px;
+}
+.hero_text_i1 {
+  position: relative;
+  top: -1248px;
+  left: -16px;
+}
+.hero_text_i2 {
+  position: relative;
+  top: -484px;
+  left: -66px;
+}
+.hero_text_i3 {
+  position: relative;
+  top: -1037px;
+  right: -1008px;
+}
+.hero_text_i9 {
+  position: relative;
+  top: -664px;
+  right: -293px;
+}
